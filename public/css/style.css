@@ -1,0 +1,248 @@
+.skin-blue #login{
+	background-color: #ecf0f5 !important;
+}
+
+.container{
+	padding-left: 0;
+	margin-left: 0;
+}
+
+h5{
+	line-height: 22px;
+	font-size: 13px;
+}
+
+
+.content-header, .main-content{
+	padding-left: 30px;
+}
+#example1{
+	table-layout: fixed;
+}
+#example1 td{
+	word-wrap: break-word;
+}
+#table_id1{
+	table-layout: fixed;
+}
+#table_id1 td{
+	word-wrap: break-word;
+}
+#table_id2{
+	table-layout: fixed;
+}
+#table_id2 td{
+	word-wrap: break-word;
+}
+.content-wrapper{
+	background-color: #fff;
+	
+}
+
+#breadcrumbs .bold{
+	font-weight: bold;
+}
+
+#breadcrumbs .bold i{
+	padding-right: 10px;
+}
+
+#client_logo img{
+	/*width: 20%;*/
+}
+
+.alert-modal .modal {
+      position: relative;
+      top: auto;
+      bottom: auto;
+      right: auto;
+      left: auto;
+      display: block;
+      z-index: 1;
+}
+
+.alert-modal .modal {
+      background: transparent !important;
+}
+
+.alert-modal .modal .modal-content{
+	border: 1px solid #EEEEEE;
+}
+
+.blue{
+	background: #2E6FAB;
+	color: #fff;
+}
+
+.red{
+	background: #ED254E;
+	color: #fff;
+}
+
+.light-blue{
+	background: #F6F8FF;
+}
+
+.alert-modal .modal-dialog{
+	/*width: 970px;*/
+	width: auto;
+	margin-left: 0px;
+}
+
+.alert-modal .modal-content{
+	border-radius: 5px;
+}
+
+.alert-modal .modal-content .modal-header{
+	border-radius: 5px 5px 0px 0px;
+}
+
+.float-right{
+	float: right;
+}
+
+.alert-modal .modal-header .float-right .alert-button{
+	padding-left: 15px; 
+	color: #fff !important; 
+	padding-top:5px; 
+	opacity: 1; 
+	font-size: 20px;
+}
+
+.alert-modal .modal-header .float-right .alert-cross{
+	color: #000;
+	font-weight: 700;
+	opacity: 1;
+}
+
+.alert-modal .modal-content .modal-body{
+	border-radius: 0px 0px 5px 5px; 
+}
+
+.alert-modal .modal-content .modal-body .alert-content{
+	margin-top: -15px; 
+	margin-left: -20px;
+}
+
+.left{
+	padding-left: 20px;
+}
+
+.left0{
+	margin-left: 0px !important;
+}
+
+.padding15{
+	padding-left: 15px;
+}
+
+.padtop{
+	padding-top: 30px;
+}
+
+.display{
+	display: inline-block;
+}
+
+.left50{
+	margin-left: -50px;
+}
+
+.left15{
+	margin-left: -15px !important;
+}
+
+.left25{
+	padding-left: 25px;
+}
+
+.m10{
+	margin-left: -10px !important;
+	padding-top: 10px;
+}
+
+.top{
+	margin-top: -5px;
+}
+
+.top30{
+	margin-top: -30px;
+}
+
+.text, a{
+	color: #43A0F7;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.bold600{
+	font-weight: 600;
+	text-align: center;
+}
+
+.text-align{
+	text-align: center;
+}
+
+.alert-modal .alertbox{
+	width: 100%;
+	margin-left: 0px;
+}
+
+.width1000{
+	width: 1000px;
+}
+
+.green-trend{
+	color: #23CE6B;
+}
+
+.red-trend{
+	color: #ED254E;
+}
+
+.box-data h1{
+	font-size: 65px;
+	font-weight: 800;
+}
+
+.action-btn button{
+	border-color: #DDDDDD;
+	background: #DDDDDD;
+	font-weight: 600;
+}
+
+.right{
+	float: right;
+}
+
+#filters select{
+	border: none !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+     background: transparent url("http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png") no-repeat 90px center;
+}
+
+.table_select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+     background: transparent url("http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png") no-repeat 80px center;
+}
+
+.tableselect{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+     background: transparent url("http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png") no-repeat 110px center;
+}
+
+.none{
+	display: none;
+}

@@ -1,0 +1,4 @@
+deploy:
+  stage: deploy
+  script:
+    - echo "Do your deploy here"

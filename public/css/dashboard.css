@@ -1,0 +1,88 @@
+.pathChart_group
+{
+	overflow-x: scroll;
+	width: 100%;
+	overflow-y: hidden;
+}
+#pathChart{
+	
+	width: 5500px;
+}
+.pathpart{
+	width: 150px;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+
+	float: left;
+	margin-right: 10px;
+
+    flex-wrap: wrap;
+ 	align-content: flex-start;
+	 
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-top: 30px;
+	border-radius: 30px;
+	background-color: #272a52;
+	color:white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.stock{
+	margin-top: 20px;
+	float: none !important;
+	width: 120px;
+	height: 80px;
+	background-color: white;
+	box-shadow: 2px 2px #d8dae1;
+	border-radius: 3px;
+	border: 1px solid #d8dae1;
+	overflow-x: hidden;
+}
+.title{
+	height: 40px;
+	background-color: #f5f7ff;
+	overflow: hidden;
+	line-height: 18px;
+
+}
+.toptitle{background-color: #327aba;color:white;
+overflow: hidden;line-height: 18px;
+}
+
+.stock p{
+	margin-top: 0px;margin-bottom: 0px;
+	font-size: 12px;
+}
+#Canvas_line{
+ 	margin-top: -600px;
+}
+#Canvas_curve{margin-top: -700px;}
+.blue{
+	
+	word-wrap: normal;
+	font-size: 16px;
+	white-space: nowrap;
+	padding-right: 10px;
+}
+.blue h4{
+	overflow-x: hidden;
+}
+.btn{
+	white-space: normal; 
+}
+.white-trend{
+	display: none;
+	color: white;
+
+}
+
+
+@media (max-width: 1233px) {
+	//.white-trend{display:block;}
+}
+

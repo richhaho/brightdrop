@@ -1,0 +1,57 @@
+	
+@media only screen  and (min-width : 1224px) {
+	.c_score
+	{
+		font-size: 35px;
+	}
+	.c_trending
+	{
+		font-size: 15px;
+	}
+	.c_prospects
+	{
+		font-size: 10px;
+	}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+	.c_score
+	{
+		font-size: 24px;
+	}
+	.c_trending
+	{
+		font-size: 10px;
+	}
+	.c_prospects
+	{
+		font-size: 8px;
+	}
+	.report_channel_overview{
+		padding-left:0px !important;
+	}
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : portrait) {
+.report_channel_overview{
+		padding-left:0px !important;
+	}
+}
+
+/*iPhone 6+ landscape*/
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation : landscape) {
+.report_channel_overview{
+		padding-left:0px !important;
+	}
+}
+
+@media only screen and (max-device-width: 640px), only screen and (max-device-width: 667px), only screen and (max-width: 480px){
+	.report_channel_overview{
+		padding-left:0px !important;
+	}
+}
+#AccountNameShow{
+	cursor: pointer;
+}

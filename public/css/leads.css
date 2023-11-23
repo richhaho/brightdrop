@@ -1,0 +1,39 @@
+.bar {
+    fill: #5f89ad;
+}
+
+.axis {
+    font-size: 13px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    display: none;
+}
+
+.label {
+    font-size: 13px;
+}
+
+#example2{
+    width: 100% !important
+}
+.padding15 {
+    padding-left: 15px;
+    width: 100%;
+}
+.alert-content{
+    width: 100%;
+    padding: 0;
+}
+.modal-header{
+    overflow-x: hidden;
+}
+.modal-title{
+    word-wrap: normal !important;
+    
+}
+
+
+

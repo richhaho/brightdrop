@@ -1,0 +1,93 @@
+.pathChart_group
+{
+	overflow-x: hidden;
+	width: 100%;
+	overflow-y: hidden;
+	margin-top: 30px;
+}
+#pathChart{
+	
+	width: 5500px;
+}
+.pathpart{
+	width: 150px;
+	height: 2000px;
+	display: flex;
+	justify-content: center;
+
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+
+    flex-wrap: wrap;
+ 	align-content: flex-start;
+	 
+}
+.arrow{
+	width: 100%;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-top: 30px;
+	border-radius: 30px;
+	background-color: #272a52;
+	color:white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.stock{
+	margin-top: 15px;
+	margin-bottom: 5px;
+	 
+	float: none !important;
+	width: 130px;
+	height: 80px;
+	background-color: white;
+	box-shadow: 2px 2px #d8dae1;
+	border-radius: 3px;
+	border: 1px solid #d8dae1;
+	overflow-x: hidden;
+}
+.title{
+	height: 40px;
+	background-color: #327aba;
+	overflow: hidden;
+	line-height: 18px;
+	color:white;
+
+}
+.toptitle{background-color: #327aba;color:white;
+overflow: hidden;line-height: 18px;
+}
+
+.stock p{
+	margin-top: 0px;margin-bottom: 0px;
+	font-size: 12px;
+}
+#Canvas_line{
+ 	margin-top: -600px;
+}
+#Canvas_curve{margin-top: -700px;}
+.blue{
+	
+	word-wrap: normal;
+	font-size: 16px;
+	white-space: nowrap;
+	padding-right: 10px;
+}
+.blue h4{
+	overflow-x: hidden;
+}
+.btn{
+	white-space: normal; 
+}
+.white-trend{
+	display: none;
+	color: white;
+
+}
+
+
+

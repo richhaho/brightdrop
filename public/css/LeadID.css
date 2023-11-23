@@ -1,0 +1,59 @@
+.pathChart_group
+{
+	overflow-x: scroll;
+	width: 100%;
+	overflow-y: hidden;
+}
+#pathChart{
+	
+	width: 2000px;
+}
+.pathpart{
+	width: 150px;
+	height: 600px;
+	display: flex;
+	justify-content: center;
+
+	float: left;
+	margin-right: 10px;
+
+    flex-wrap: wrap;
+ 	align-content: flex-start;
+	 
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-top: 30px;
+	border-radius: 30px;
+	background-color: #272a52;
+	color:white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.stock{
+	margin-top: 20px;
+	float: none !important;
+	width: 120px;
+	height: 80px;
+	background-color: white;
+	box-shadow: 2px 2px #d8dae1;
+	border-radius: 3px;
+	border: 1px solid #d8dae1;
+}
+.title{
+	height: 40px;
+	background-color: #f5f7ff;
+}
+.toptitle{background-color: #327aba;color:white;}
+.stock p{
+	margin-top: 0px;margin-bottom: 0px;
+	font-size: 12px;
+}
+#Canvas_line{
+ 	margin-top: -600px;
+}
+#Canvas_curve{margin-top: -700px;}
+
+
